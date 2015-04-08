@@ -1,1 +1,9 @@
-name, date, description
+Mathew Sherry
+4-7-2015
+
+Lab 3 with a texture added on. The texture should be a repeating texture of a weird wire image I found online.
+However, the textures don't seem to appear on my computer. Not sure if it's just an issue with my computer or not.
+I tried copy/pasting code from angel and running that on my machine(with the correct image in place), but all I got was
+a stationary blue square.
+
+Either way, it should be very close to working, if not already there(just not running on my machine).
